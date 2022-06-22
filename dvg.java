@@ -70,7 +70,7 @@ public class Dos implements Runnable {
         System.out.println( "DDDDDDDDDDDDD                   VVV                   GGGGGG   GGGG" );
         System.out.println(" ");
         System.out.println(" ");
-        System.out.println( "Group: DDOS VietNam Group (DVG);");
+        System.out.println( "Group: DDOS VietNam Group (DVG)");
         System.out.println( "Link: https://www.facebook.com/groups/776821276786175");
         System.out.println( " ");
         System.out.println( " ");
